@@ -1,6 +1,6 @@
 # Moh Oktavi Aziz Nugraha
 
-moktavizzen@gmail.com > [github.com/moktavizen](https://github.com/moktavizen) > 0881-02660-9292 > Manyar, Gresik, East Java
+[moktavizzen@gmail.com](https://mail.google.com/mail/u/0/#inbox) > [github.com/moktavizen](https://github.com/moktavizen) > 0881-02660-9292 > Manyar, Gresik, East Java
 
 ## WORK EXPERIENCE
 
