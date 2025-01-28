@@ -18,12 +18,14 @@ Intern Web Developer
 **Company Profile with CMS**
 
 React, Tailwind, Strapi, Laravel, Tailwind, Alpine JS, Filament
+
 - Designed and  built a full-stack web application with React and headless CMS (Strapi) for dynamic content management.
 - Rewrite React and Strapi web appliaction into Laravel and Filament web application.
 
 **Quran Reading Application**
 
 Flutter, SQLite, Rest API
+
 - Built Quran Application using Flutter for the UI, and Drift with SQLite for local database.
 - Inegrated many useful features, such as audio playback that utilize Rest API.
 
