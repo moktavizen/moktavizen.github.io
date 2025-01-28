@@ -34,7 +34,7 @@ Flutter, SQLite, Rest API
 Inkscape, GIMP, Canva
 
 - Created custom dark theme for JDownloader using design programs like Canva, GIMP, and Inkscape.
-- Open-sourced the project, with 100+ stars on GitHub.
+- Open-sourced the project, with [100+ stars on GitHub](https://github.com/moktavizen/material-darker-jdownloader).
 
 ## EDUCATION
 
