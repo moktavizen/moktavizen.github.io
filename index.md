@@ -27,7 +27,7 @@ React, Tailwind, Strapi, Laravel, Tailwind, Alpine JS, Filament
 Flutter, SQLite, Rest API
 
 - Built Quran Application using Flutter for the UI, and Drift with SQLite for local database.
-- Inegrated many useful features, such as audio playback that utilize Rest API.
+- Integrated many useful features, such as audio playback that utilize Rest API.
 
 **Dark Theme for JDownloader**
 
