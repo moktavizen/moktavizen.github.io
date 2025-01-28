@@ -1,6 +1,6 @@
-title: Moh Oktavi Aziz Nugraha
-description: My Portfolio Website
+title: Portfolio
+description: Moh Oktavi Aziz Nugraha Portfolio Website
 theme: minima # Default Jekyll theme
 navbar:
   - name: Home
-    link: /index.md
+    link: /
