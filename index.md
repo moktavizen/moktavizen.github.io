@@ -5,6 +5,7 @@ moktavizzen@gmail.com > [github.com/moktavizen](https://github.com/moktavizen) >
 ## WORK EXPERIENCE
 
 **KOMINFO Gresik: July 2023 - December 2023**
+
 Intern Web Developer
 
 - Converted legacy WordPress website into modern web application using React, Tailwind, Strapi CMS.
@@ -15,23 +16,28 @@ Intern Web Developer
 ## PROJECTS
 
 **Company Profile with CMS**
+
 React, Tailwind, Strapi, Laravel, Tailwind, Alpine JS, Filament
 - Designed and  built a full-stack web application with React and headless CMS (Strapi) for dynamic content management.
 - Rewrite React and Strapi web appliaction into Laravel and Filament web application.
 
 **Quran Reading Application**
+
 Flutter, SQLite, Rest API
 - Built Quran Application using Flutter for the UI, and Drift with SQLite for local database.
 - Inegrated many useful features, such as audio playback that utilize Rest API.
 
 **Dark Theme for JDownloader**
-Inkscape
-- Created custom dark theme for JDownloader using Java and Inkscape.
+
+Inkscape, GIMP, Canva
+
+- Created custom dark theme for JDownloader using design programs like Canva, GIMP, and Inkscape.
 - Open-sourced the project, with 100+ stars on GitHub.
 
 ## EDUCATION
 
 **Politeknik Elektronika Negeri Surabaya: October, 2024**
+
 Associate Degree Diploma 3 (D3) in Computer Science
 
 - **GPA:** 3.67 *cumlaude*
@@ -44,6 +50,7 @@ Associate Degree Diploma 3 (D3) in Computer Science
 - **Backend:** PHP, Laravel, REST APIs
 - **Database:** SQlite, MySQL
 - **CMS:** WordPress, Strapi, Filament
+- **Design:** Canva, Inkscape, GIMP
 - **Mobile:** Flutter, Drift
 - **CLI Tools:** Git, Bash, grep, awk, sed, Linux (Ubuntu, Fedora, Arch)
 - **Soft Skills:** Agile Collaboration, Technical Documentation, Open-Source Contribution
