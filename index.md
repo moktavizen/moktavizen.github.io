@@ -48,11 +48,4 @@ Associate Degree in Computer Science - Diploma 3 (D3) Teknik Informatika
 
 ## SKILLS
 
-- **Frontend:** HTML, CSS, JavaScript, React, Alpine.js, Tailwind CSS
-- **Backend:** PHP, Laravel, REST APIs
-- **Database:** SQlite, MySQL
-- **CMS:** WordPress, Strapi, Filament
-- **Design:** Canva, Inkscape, GIMP
-- **Mobile:** Flutter, Drift
-- **CLI Tools:** Git, Bash, grep, awk, sed, Linux (Debian, Ubuntu, Fedora, Red Hat, Arch)
-- **Misc:** Conventional Commits, Agile, Scrum, Technical Documentation, Open-Source Contribution
+HTML, CSS, JavaScript, React, Alpine.js, Tailwind CSS; PHP, Laravel, REST APIs; SQlite, MySQL; WordPress, Strapi, Filament; Canva, Inkscape, GIMP; Flutter, Drift; Git, Bash, grep, awk, sed, Linux (Debian, Ubuntu, Fedora, Red Hat, Arch); Conventional Commits, Agile, Scrum, Technical Documentation, Open-Source Contribution;
