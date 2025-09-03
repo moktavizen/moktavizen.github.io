@@ -15,19 +15,15 @@ Intern Web Developer
 
 ## PROJECTS
 
-**Company Profile with CMS**
-
-React, Tailwind, Strapi, Laravel, Alpine JS, Filament
+**Company Profile with CMS: React, Tailwind, Strapi, Laravel, Alpine JS, Filament**
 
 - Designed and built a full-stack website with React and headless CMS (Strapi) for dynamic content management.
 - Rewrite React and Strapi website into Laravel and Filament website.
 
-**Dark Theme for JDownloader**
-
-Inkscape, GIMP, Canva
+**Dark Theme for JDownloader: Inkscape, GIMP, Canva**
 
 - Created custom dark theme for JDownloader using design programs like Canva, GIMP, and Inkscape.
-- Open-sourced the project, with [100+ stars on GitHub](https://github.com/moktavizen/material-darker-jdownloader).
+- Open-sourced the project, with [150+ stars on GitHub](https://github.com/moktavizen/material-darker-jdownloader).
 
 **Floaty UI: Vanilla CSS**
 
