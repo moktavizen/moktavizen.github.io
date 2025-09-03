@@ -19,7 +19,7 @@ Intern Web Developer
 
 React, Tailwind, Strapi, Laravel, Alpine JS, Filament
 
-- Designed and  built a full-stack website with React and headless CMS (Strapi) for dynamic content management.
+- Designed and built a full-stack website with React and headless CMS (Strapi) for dynamic content management.
 - Rewrite React and Strapi website into Laravel and Filament website.
 
 **Quran Reading Application**
