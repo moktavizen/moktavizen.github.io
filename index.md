@@ -22,13 +22,6 @@ React, Tailwind, Strapi, Laravel, Alpine JS, Filament
 - Designed and built a full-stack website with React and headless CMS (Strapi) for dynamic content management.
 - Rewrite React and Strapi website into Laravel and Filament website.
 
-**Quran Reading Application**
-
-Flutter, SQLite, Rest API
-
-- Built Quran Application using Flutter for the UI, and Drift with SQLite for local database.
-- Integrated many useful features, such as audio playback that utilize Rest API.
-
 **Dark Theme for JDownloader**
 
 Inkscape, GIMP, Canva
@@ -48,4 +41,4 @@ Associate Degree in Computer Science - Diploma 3 (D3) Teknik Informatika
 
 ## SKILLS
 
-HTML, CSS, JavaScript, React, Alpine.js, Tailwind CSS; PHP, Laravel, REST APIs; SQlite, MySQL; WordPress, Strapi, Filament; Canva, Inkscape, GIMP; Flutter, Drift; Git, Bash, grep, awk, sed, Linux (Debian, Ubuntu, Fedora, Red Hat, Arch); Conventional Commits, Agile, Scrum, Technical Documentation, Open-Source Contribution;
+HTML, CSS, JavaScript, React, Alpine.js, Tailwind CSS; PHP, Laravel, REST APIs; SQlite, MySQL; WordPress, Strapi, Filament; Canva, Inkscape, GIMP; Git, Bash, grep, awk, sed, Linux (Debian, Ubuntu, Fedora, Red Hat, Arch); Conventional Commits, Agile, Scrum, Technical Documentation, Open-Source Contribution;
