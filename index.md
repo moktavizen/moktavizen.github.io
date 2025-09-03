@@ -29,6 +29,11 @@ Inkscape, GIMP, Canva
 - Created custom dark theme for JDownloader using design programs like Canva, GIMP, and Inkscape.
 - Open-sourced the project, with [100+ stars on GitHub](https://github.com/moktavizen/material-darker-jdownloader).
 
+**Floaty UI: Vanilla CSS**
+
+- Created custom UI mod for Zen Browser using CSS to change various UI component look and feel.
+- Open-sourced the project, with [20+ stars on GitHub](https://github.com/moktavizen/floaty-ui).
+
 ## EDUCATION
 
 **Politeknik Elektronika Negeri Surabaya: October, 2024**
