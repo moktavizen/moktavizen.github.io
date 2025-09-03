@@ -8,10 +8,10 @@
 
 Intern Web Developer
 
-- Converted legacy WordPress website into modern web application using React, Tailwind, Strapi CMS.
-- Rewrite React and Strapi web application into Laravel and Filament web application.
-- Deploy Laravel web application on VPS using AWS and Linux tools.
-- Write complete documentation on user manual and deployment manual for the web application.
+- Converted legacy WordPress website into modern website using React, Tailwind, Strapi CMS.
+- Rewrite React and Strapi website into Laravel and Filament website.
+- Deploy Laravel website on VPS using AWS and Linux tools.
+- Write complete documentation on user manual and deployment manual for the website.
 
 ## PROJECTS
 
@@ -19,8 +19,8 @@ Intern Web Developer
 
 React, Tailwind, Strapi, Laravel, Alpine JS, Filament
 
-- Designed and  built a full-stack web application with React and headless CMS (Strapi) for dynamic content management.
-- Rewrite React and Strapi web application into Laravel and Filament web application.
+- Designed and  built a full-stack website with React and headless CMS (Strapi) for dynamic content management.
+- Rewrite React and Strapi website into Laravel and Filament website.
 
 **Quran Reading Application**
 
