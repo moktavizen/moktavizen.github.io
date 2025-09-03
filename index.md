@@ -40,7 +40,7 @@ Inkscape, GIMP, Canva
 
 **Politeknik Elektronika Negeri Surabaya: October, 2024**
 
-Associate Degree Diploma 3 (D3) in Computer Science
+Associate Degree in Computer Science - Diploma 3 (D3) Teknik Informatika
 
 - **GPA:** 3.67 *cumlaude*
 - **Certifications:** TOEFL (557), BNSP Web Developer Certification, MikroTik MTCNA, DiCoding AWS Cloud.
