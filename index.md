@@ -54,5 +54,5 @@ Associate Degree in Computer Science - Diploma 3 (D3) Teknik Informatika
 - **CMS:** WordPress, Strapi, Filament
 - **Design:** Canva, Inkscape, GIMP
 - **Mobile:** Flutter, Drift
-- **CLI Tools:** Git, Bash, grep, awk, sed, Linux (Ubuntu, Fedora, Arch)
-- **Soft Skills:** Agile Collaboration, Technical Documentation, Open-Source Contribution
+- **CLI Tools:** Git, Bash, grep, awk, sed, Linux (Debian, Ubuntu, Fedora, Red Hat, Arch)
+- **Misc:** Conventional Commits, Agile, Scrum, Technical Documentation, Open-Source Contribution
