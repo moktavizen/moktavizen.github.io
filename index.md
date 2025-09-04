@@ -36,7 +36,7 @@ Intern Web Developer
 
 Associate Degree in Computer Science - Diploma 3 (D3) Teknik Informatika
 
-- GPA: 3.67 *cumlaude*
+- GPA/IPK: 3.67 *cumlaude*
 - Certifications: TOEFL (557), BNSP Web Developer Certification, MikroTik MTCNA, DiCoding AWS Cloud.
 - Relevant Course: Web Development, Linux Systems, Database, UI/UX Design.
 
