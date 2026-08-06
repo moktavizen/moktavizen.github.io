@@ -18,14 +18,14 @@ Intern Web Developer
 **Weather App rafawx: Vanilla JS, HTML, CSS**
 
 - Weather App written in Vanilla JS leveraging Visual Crossing API.
-- Async and await in Vanilla JS
-- Working with external API
+- Async and await in Vanilla JS.
+- Working with external API.
 
 **Todo List ralintd: Vanilla JS, HTML, CSS**
 
-- Use ES Modules and Webpack to organize the files
-- Complex and advanced DOM manipulation in Vanilla JS
-- Working with local storage and JSON
+- Use ES Modules and Webpack to organize the files.
+- Complex and advanced DOM manipulation in Vanilla JS.
+- Working with local storage and JSON.
 
 **Company Profile with CMS: React, Tailwind, Strapi, Laravel, Alpine JS, Filament**
 
@@ -35,12 +35,12 @@ Intern Web Developer
 **Dark Theme for JDownloader: Inkscape, GIMP, Canva**
 
 - Created custom dark theme for JDownloader using design programs like Canva, GIMP, and Inkscape.
-- Open-sourced the project, with [150+ stars on GitHub](https://github.com/moktavizen/material-darker-jdownloader).
+- Open-sourced the project, with [300+ stars on GitHub](https://github.com/moktavizen/material-darker-jdownloader).
 
 **Floaty UI: Vanilla CSS**
 
 - Created custom UI mod for Zen Browser using CSS to change various UI component look and feel.
-- Open-sourced the project, with [20+ stars on GitHub](https://github.com/moktavizen/floaty-ui).
+- Open-sourced the project, with [30+ stars on GitHub](https://github.com/moktavizen/floaty-ui).
 
 ## EDUCATION
 
