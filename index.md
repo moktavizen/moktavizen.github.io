@@ -1,6 +1,6 @@
 # Moh Oktavi Aziz Nugraha
 
-<moktavizzen@gmail.com> : [github.com/moktavizen](https://github.com/moktavizen) : 0881-02660-9292 : Manyar, Gresik, East Java
+<moktavizzen@gmail.com> | [github.com/moktavizen](https://github.com/moktavizen) | 0881-02660-9292 | Manyar, Gresik, East Java
 
 ## WORK EXPERIENCE
 
@@ -14,6 +14,18 @@ Intern Web Developer
 - Write complete documentation on user manual and deployment manual for the website.
 
 ## PROJECTS
+
+**Weather App rafawx: Vanilla JS, HTML, CSS**
+
+- Weather App written in Vanilla JS leveraging Visual Crossing API.
+- Async and await in Vanilla JS
+- Working with external API
+
+**Todo List ralintd: Vanilla JS, HTML, CSS**
+
+- Use ES Modules and Webpack to organize the files
+- Complex and advanced DOM manipulation in Vanilla JS
+- Working with local storage and JSON
 
 **Company Profile with CMS: React, Tailwind, Strapi, Laravel, Alpine JS, Filament**
 
@@ -36,10 +48,10 @@ Intern Web Developer
 
 Associate Degree in Computer Science - Diploma 3 (D3) Teknik Informatika
 
-- GPA/IPK: 3.67 *cumlaude*
+- GPA/IPK: 3.67
 - Certifications: TOEFL (557), BNSP Web Developer Certification, MikroTik MTCNA, DiCoding AWS Cloud.
 - Relevant Course: Web Development, Linux Systems, Database, UI/UX Design.
 
 ## SKILLS
 
-HTML, CSS, JavaScript, React, Alpine.js, Tailwind CSS; PHP, Laravel, REST APIs; SQlite, MySQL; WordPress, Strapi, Filament; MS Office, Canva, Inkscape, GIMP; Git, Bash, grep, awk, sed, Linux (Debian, Ubuntu, Fedora, Red Hat, Arch); Conventional Commits, Agile, Scrum, Technical Documentation, Open-Source Contribution;
+HTML, CSS, JavaScript, React, Alpine.js, Tailwind CSS; PHP, Laravel, REST APIs; SQlite, MySQL; WordPress, Strapi, Filament; MS Word, MS PowerPoint, MS Excel, Canva, Inkscape, GIMP; Git, Bash, grep, awk, sed, Linux (Debian, Ubuntu, Fedora, Red Hat, Arch); Conventional Commits, Agile, Scrum, Technical Documentation, Open-Source Contribution;
