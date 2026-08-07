@@ -1,10 +1,10 @@
 # Moh Oktavi Aziz Nugraha
 
- 0881-02660-9292 | Gresik, East Java | moktavizzen@gmail.com | github.com/moktavizen
+ 0881-02660-9292 | Gresik, East Java | moktavizzen@gmail.com | [github.com/moktavizen](https://github.com/moktavizen)
 
 ## WORK EXPERIENCE
 
-**KOMINFO Gresik: July 2023 - December 2023**
+**KOMINFO Gresik:** July 2023 - December 2023
 
 Intern Web Developer
 
@@ -15,36 +15,36 @@ Intern Web Developer
 
 ## PROJECTS
 
-**Weather App rafawx: Vanilla JS, HTML, CSS**
+**Weather App rafawx:** Vanilla JS, HTML, CSS
 
 - Weather App written in Vanilla JS leveraging Visual Crossing API.
 - Async and await in Vanilla JS.
 - Working with external API.
 
-**Todo List ralintd: Vanilla JS, HTML, CSS**
+**Todo List ralintd:** Vanilla JS, HTML, CSS
 
 - Use ES Modules and Webpack to organize the files.
 - Complex and advanced DOM manipulation in Vanilla JS.
 - Working with local storage and JSON.
 
-**Company Profile with CMS: React, Tailwind, Strapi, Laravel, Alpine JS, Filament**
+**Company Profile with CMS:** React, Tailwind, Strapi, Laravel, Alpine JS, Filament
 
 - Designed and built a full-stack website with React and Strapi for dynamic content management.
 - Rewrite React and Strapi website into Laravel and Filament website.
 
-**Dark Theme for JDownloader: Inkscape, GIMP, Canva**
+**Dark Theme for JDownloader:** Inkscape, GIMP, Canva
 
 - Created custom dark theme for JDownloader using design programs like Canva, GIMP, and Inkscape.
 - Open-sourced the project, with [300+ stars on GitHub](https://github.com/moktavizen/material-darker-jdownloader).
 
-**Floaty UI: Vanilla CSS**
+**Floaty UI:** Vanilla CSS
 
 - Created custom UI mod for Zen Browser using CSS to change various UI component look and feel.
 - Open-sourced the project, with [30+ stars on GitHub](https://github.com/moktavizen/floaty-ui).
 
 ## EDUCATION
 
-**Politeknik Elektronika Negeri Surabaya: October, 2024**
+**Politeknik Elektronika Negeri Surabaya:** October, 2024
 
 Associate Degree in Computer Science - Diploma 3 (D3) Teknik Informatika
 
