@@ -44,7 +44,7 @@ Intern Web Developer
 
 ## Education
 
-**Politeknik Elektronika Negeri Surabaya:** October, 2024
+**Politeknik Elektronika Negeri Surabaya:** October 2024
 
 Associate Degree in Computer Science - Diploma 3 (D3) Teknik Informatika
 
