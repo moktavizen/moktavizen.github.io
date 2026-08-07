@@ -1,8 +1,8 @@
 # Moh Oktavi Aziz Nugraha
 
- 0881-02660-9292 | Gresik, East Java | moktavizzen@gmail.com | [github.com/moktavizen](https://github.com/moktavizen)
+ 0881-02660-9292 / Gresik, East Java / moktavizzen@gmail.com / [github.com/moktavizen](https://github.com/moktavizen)
 
-## WORK EXPERIENCE
+## Work Experience
 
 **KOMINFO Gresik:** July 2023 - December 2023
 
@@ -13,7 +13,7 @@ Intern Web Developer
 - Deploy Laravel website on VPS using AWS and Linux tools.
 - Write complete documentation on user manual and deployment manual for the website.
 
-## PROJECTS
+## Projects
 
 **Weather App rafawx:** Vanilla JS, HTML, CSS
 
@@ -42,7 +42,7 @@ Intern Web Developer
 - Created custom UI mod for Zen Browser using CSS to change various UI component look and feel.
 - Open-sourced the project, with [30+ stars on GitHub](https://github.com/moktavizen/floaty-ui).
 
-## EDUCATION
+## Education
 
 **Politeknik Elektronika Negeri Surabaya:** October, 2024
 
@@ -52,6 +52,6 @@ Associate Degree in Computer Science - Diploma 3 (D3) Teknik Informatika
 - Certifications: TOEFL (557), BNSP Web Developer Certification, MikroTik MTCNA, DiCoding AWS Cloud.
 - Relevant Course: Web Development, Linux Systems, Database, UI/UX Design.
 
-## SKILLS
+## Skills
 
 HTML, CSS, JavaScript, React, Alpine.js, Tailwind CSS; PHP, Laravel, REST APIs; SQlite, MySQL; WordPress, Strapi, Filament; MS Word, MS PowerPoint, MS Excel, Canva, Inkscape, GIMP; Git, Bash, grep, awk, sed, Linux (Debian, Ubuntu, Fedora, Red Hat, Arch); Conventional Commits, Agile, Scrum, Technical Documentation, Open-Source Contribution;
