@@ -1,6 +1,6 @@
-# Moh Oktavi Aziz Nugraha
+# Mohammad John Doe
 
- 0881-02660-9292 / Gresik, East Java / moktavizzen@gmail.com / [github.com/moktavizen](https://github.com/moktavizen)
+0812-3456-7890 / Gresik, East Java / johndoe@gmail.com / [github.com/johndoe](https://github.com/johndoe)
 
 ## Work Experience
 
@@ -35,12 +35,12 @@ Intern Web Developer
 **Dark Theme for JDownloader:** Inkscape, GIMP, Canva
 
 - Created custom dark theme for JDownloader using design programs like Canva, GIMP, and Inkscape.
-- Open-sourced the project, with [300+ stars on GitHub](https://github.com/moktavizen/material-darker-jdownloader).
+- Open-sourced the project, with [300+ stars on GitHub](https://github.com/johndoe/material-darker-jdownloader).
 
 **Floaty UI:** Vanilla CSS
 
 - Created custom UI mod for Zen Browser using CSS to change various UI component look and feel.
-- Open-sourced the project, with [30+ stars on GitHub](https://github.com/moktavizen/floaty-ui).
+- Open-sourced the project, with [30+ stars on GitHub](https://github.com/johndoe/floaty-ui).
 
 ## Education
 
